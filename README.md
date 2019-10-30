@@ -1,5 +1,7 @@
 # YKCore
-
+ [![](https://jitpack.io/v/muyishuangfeng/YKCore.svg)](https://jitpack.io/#muyishuangfeng/YKCore)
      
       maven { url 'https://jitpack.io' }
-      implementation 'com.github.muyishuangfeng:YKCore:1.0.0'
+      
+      
+      implementation 'com.github.muyishuangfeng:YKCore:lastVersion'
