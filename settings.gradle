@@ -1,0 +1,2 @@
+include ':YKCore'
+rootProject.name='YKSDK'
